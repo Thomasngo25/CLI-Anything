@@ -345,3 +345,6 @@ assets/gen_typing_gif.py
 !/jumpserver/
 !/jumpserver/agent-harness/
 !/cli_anything/jumpserver/
+
+!/AGENTS.md
+!/CLAUDE.md
